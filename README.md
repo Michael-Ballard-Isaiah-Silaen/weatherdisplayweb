@@ -1,2 +1,2 @@
-# weatherdisplay
-Simple Website to display weather information grabbed from an open weather API key
+# Weatherdisplay
+A simple website that displays weather information, grabbed from an openweather API key. To try this out on your own, simply use the same code and upload it to your own github, then proceed to go to Vercel to deploy the project, with: (Important! Do not forget to add Environment Variables to your vercel deployment, one being "API_KEY" which will be the appid from your openweather 2.5 API Key, and "VITE_CITY", the name of the city whose weather information you desire.)
